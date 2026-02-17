@@ -1,40 +1,84 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100"/>
+<div align="center">
+
+# Mathew Thomson
+
+### Data Engineer | Spark • Snowflake • AWS | CMU
+Designing distributed data platforms that power analytics and machine learning at scale.
+
 </div>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div id="header" align="center"> <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100"/> </div> 
+<h1 align="center"> hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 
-<!-- <h1 align="center">
-<img src="https://github.com/mrohitth/mrohitth/blob/main/vid.gif" width="300"/>
-</h1> -->
+## 🚀 About Me
+
+I’m a Data Engineer specializing in distributed ETL systems and large-scale batch processing on AWS.
+
+At Capco (Client: Freddie Mac), I design and optimize EMR + Snowflake pipelines processing 40M+ records per batch, reducing runtimes by 75% through Spark and SQL performance tuning. My work spans CDC pipelines, SCD Type-2 historical modeling, and production-grade data warehousing.
+
+With a research foundation in Machine Learning and Computer Vision from Carnegie Mellon, I bring an ML-aware approach to data engineering — building systems that support reproducible feature engineering, model training workflows, and scalable inference pipelines.
+
+I’m interested in:
+- Data Engineering
+- ML Data Engineering
+- Distributed Data Platforms
+- Scalable Analytics Infrastructure
+
+📫 Connect with me:  
+<a href="https://linkedin.com/in/mrohitth" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://mrohitth.github.io/my-website/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 
 
-<!--
-**mrohitth/mrohitth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏗 Core Competencies
 
-Here are some ideas to get you started:
+- Distributed Data Processing (Spark on AWS EMR)
+- Data Warehousing & Modeling (Snowflake, SCD Type-2)
+- Change Data Capture (CDC) Pipelines
+- Batch Orchestration (Airflow)
+- Data Observability & Statistical Validation
+- Performance Optimization & Cost Efficiency
+- ML-Ready Data Platform Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-## 💫 About Me 
-🔭 I’m currently pursuing my Masters at CMU. <br>
-🌱 I am presently engaged in multiple machine learning projects. <br>
-⚡ In my free time, I like to binge anime, listen to music, and play with cats. <br>
-😄 Pronouns: he/him <br>
-📫 How to reach me: 
-<a href="https://linkedin.com/in/mrohitth" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> 
+## 💻 Tech Stack
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+### Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon EMR](https://img.shields.io/badge/AWS_EMR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
+### Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 📌 Featured Work
+
+- **CDC & Historical Warehouse Platform** – Metadata-driven change data capture with SCD Type-2 versioning and deterministic replay.
+- **Data Observability Platform** – Statistical anomaly detection framework for freshness, schema, and volume validation.
+- **Batch Analytics Platform** – Containerized Airflow + dbt ELT system with idempotent transformations and automated quality checks.
+
+Explore pinned repositories below for architecture details and system design decisions.
